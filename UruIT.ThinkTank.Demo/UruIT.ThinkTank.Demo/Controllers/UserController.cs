@@ -20,7 +20,7 @@ namespace UruIT.ThinkTank.Demo.Controllers
 
         public ActionResult Edit() 
         {
-            return View();
+            return View("EditView");
         }
     }
 }
