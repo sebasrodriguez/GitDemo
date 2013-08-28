@@ -18,5 +18,9 @@ namespace UruIT.ThinkTank.Demo.Controllers
             return View();
         }
 
+        public ActionResult Edit() 
+        {
+            return View();
+        }
     }
 }
