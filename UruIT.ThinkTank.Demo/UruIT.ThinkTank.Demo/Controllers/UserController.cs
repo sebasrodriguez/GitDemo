@@ -11,6 +11,7 @@ namespace UruIT.ThinkTank.Demo.Controllers
         public ActionResult Index()
         {
             // test
+            // feature 1 changes
             return View();
         }
 
