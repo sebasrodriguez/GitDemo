@@ -10,6 +10,7 @@ namespace UruIT.ThinkTank.Demo.Controllers
     {
         public ActionResult Index()
         {
+            // test
             return View();
         }
 
