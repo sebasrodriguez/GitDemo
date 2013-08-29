@@ -13,6 +13,7 @@ namespace UruIT.ThinkTank.Demo.Controllers
             // test
             // feature 1 changes    generando conflicto
             test
+                test 2
             return View();
         }
 
